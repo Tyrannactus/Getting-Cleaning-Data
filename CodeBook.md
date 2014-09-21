@@ -15,14 +15,14 @@ A detailed description of the data set can be found at the following link:  http
 <h2>Variables</h2>
 
 Data from the following files located in the zipped data set were used:
-*X_test.txt
-*X_train.txt
-*y_text.txt
-*y_train.txt
-*subject_test.txt
-*subject_train.txt
-*features.txt
-*activity_labels.txt
+* X_test.txt
+* X_train.txt
+* y_text.txt
+* y_train.txt
+* subject_test.txt
+* subject_train.txt
+* features.txt
+* activity_labels.txt
 
 <h2>Transformations</h2>
 
