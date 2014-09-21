@@ -24,6 +24,22 @@ Data from the following files located in the zipped data set were used:
 * features.txt
 * activity_labels.txt
 
+The final output contains a column for the activity id, and the subject id, followed by the mean of columns taken from X_test and X_train. Examples of these column names are 
+
+tBodyAcc-mean()-X
+
+tBodyAcc-mean()-Y
+
+tBodyAcc-mean()-Z
+
+tBodyAcc-std()-X
+
+tBodyAcc-std()-Y
+
+tBodyAcc-std()-Z
+
+...
+
 <h2>Transformations</h2>
 
 The following are the specific transformations performed by the run_analysis.r script.
