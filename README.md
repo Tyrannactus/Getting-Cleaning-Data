@@ -1,7 +1,7 @@
 Getting-Cleaning-Data
 =====================
 
-<h2>Overview<h2>
+<h2>Overview</h2>
 
 You should create one R script called run_analysis.R that does the following. 
 
